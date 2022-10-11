@@ -1,3 +1,4 @@
+
 Aadil BEN RACHID
 
 I am from Paris.
@@ -13,4 +14,6 @@ After the bootcamp i will seek for a job as a junior data analyst.
 I am pretty interested in marketing and finance industry.
 My future role will look like helping buisness managers to take data driven decisions.
 My career goal is not yet define i will depend of the opportunities in the futur.
+
+Aadil BEN RACHID 42 years old
 
